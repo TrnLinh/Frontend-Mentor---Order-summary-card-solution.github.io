@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub for solution](https://github.com/TrnLinh/Frontend-Mentor---Order-summary-card-solution.github.io.git)
-- Live Site URL: [Add live site URL here](https://trnlinh.github.io/Frontend-Mentor---Order-summary-card-solution.github.io/)
+- Live Site URL: [Where you can find the site](https://trnlinh.github.io/Frontend-Mentor---Order-summary-card-solution.github.io/)
 
 ## My process
 
